@@ -1,0 +1,1 @@
+clang++ -O3 -g -lvlc -lm -lserial `sdl-config --cflags --libs` -lSDL -lSDLmain -D__STDC_CONSTANT_MACROS -Wno-deprecated-declarations   -c -o ._applicationcontroller.o ._applicationcontroller.cpp

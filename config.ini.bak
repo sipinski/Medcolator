@@ -1,0 +1,10 @@
+[active]
+path=/home/reva/Instructograph/Active
+tty=/dev/ttyS0
+idle=0
+ttyinput=1
+
+[inactive]
+path=/home/reva/Instructograph/Active
+idle=1
+
